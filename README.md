@@ -5,8 +5,8 @@ pip install -r requiment.txt
 
 ## Getting Started
 
-python exp2.py
-python exp3.py
-python exp4.py
+[python exp2.py]
+[python exp3.py]
+[python exp4.py]
 
 分别查看实验题2,3,4

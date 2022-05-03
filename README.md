@@ -9,4 +9,4 @@ pip install -r requirement.txt
 - python exp3.py
 - python exp4.py
 
-- 分别查看实验题2,3,4
+分别查看实验题2,3,4
